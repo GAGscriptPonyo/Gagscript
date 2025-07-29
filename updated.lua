@@ -1,1 +1,6 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua"))();loadstring(game:HttpGet("https://raw.githubusercontent.com/GAGscriptPonyo/ZenUpdate/refs/heads/main/New.lua"))();
+loadstring([[
+local script1 = game:HttpGet("https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua")
+loadstring(script1)()
+local script2 = game:HttpGet("https://raw.githubusercontent.com/GAGscriptPonyo/ZenUpdate/refs/heads/main/New.lua")
+loadstring(script2)()
+]])()
