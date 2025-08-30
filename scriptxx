@@ -1,4 +1,4 @@
-local script1 = game:HttpGet("https://raw.githubusercontent.com/GAGscriptPonyo/Gagscript/refs/heads/main/22'))()")
+local script1 = game:HttpGet("https://raw.githubusercontent.com/GAGscriptPonyo/Gagscript/refs/heads/main/22')
 loadstring(script1)()
 
 local script2 = game:HttpGet("https://raw.githubusercontent.com/GAGscriptPonyo/Gagscript/refs/heads/main/1")
