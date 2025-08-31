@@ -1,7 +1,7 @@
-local script1 = game:HttpGet("https://raw.githubusercontent.com/GAGscriptPonyo/Gagscript/refs/heads/main/22")
+local script1 = game:HttpGet("https://raw.githubusercontent.com/GAGscriptPonyo/Gagscript/refs/heads/main/Petmutation")
 loadstring(script1)()
 
-local script2 = game:HttpGet("https://raw.githubusercontent.com/GAGscriptPonyo/Gagscript/refs/heads/main/1")
+local script2 = game:HttpGet("https://raw.githubusercontent.com/GAGscriptPonyo/Gagscript/refs/heads/main/22")
 loadstring(script2)()
 
 local script3 = game:HttpGet("https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua")
